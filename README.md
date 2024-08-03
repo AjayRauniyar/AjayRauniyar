@@ -1,4 +1,4 @@
-[![MasterHead]([https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif](https://drive.google.com/file/d/1PQUvNmHkp09F9sm9yGCwL4b4KdhaUBV_/view?usp=sharing))](https://AjayRauniyar.io)
+[![MasterHead]([https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif])](https://AjayRauniyar.io)
 <h1 align="center">Hi 👋, I'm Ajay Kumar Rauniyar</h1>
 <h3 align="center">A passionate Android developer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
