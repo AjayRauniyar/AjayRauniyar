@@ -1,6 +1,6 @@
 [![MasterHead]([https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzE0NnNycnlwMnJlaXBpbHI1N3o4czB4cGFkcjJoMWw4cjdsZGdncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g9ZXhigpV619rsDuwD/giphy.gif])](https://AjayRauniyar.io)
 <h1 align="center">Hi 👋, I'm Ajay Kumar Rauniyar</h1>
-<h3 align="center">A passionate Android developer from Nepal</h3>
+<h3 align="center">A passionate Android developer & flutter Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb21zYThlMWtqcDc0aHk3N25jZHdsdms4dXZ2cW90MDcyazNvYjAyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aGVPRpt4H7wbbXaJOs/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yajaw&label=Profile%20views&color=0e75b6&style=flat" alt="yajaw" /> </p>
